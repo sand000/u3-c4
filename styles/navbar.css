@@ -1,0 +1,21 @@
+#navbar{
+    display: flex;
+    justify-content: space-around;
+  }
+
+  #search_input{
+    width: 70%;
+    border-radius: 10px;
+  }
+
+  #sidebar{
+    border: 2px solid purple;
+    width: 150px;
+    text-align: center;
+  }
+
+  #sidebar>h3{
+      padding: 10px;
+      background-color: teal;
+  }
+
